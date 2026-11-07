@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.sap",
+  "versions": [
+    {
+      "commit": "9f06d3358ffa63af13209fd043e730ba39f22a1a",
+      "tag": "2.0.0",
+      "parsed_at": "2026-11-07T18:04:42.034401+00:00"
+    }
+  ]
+}
