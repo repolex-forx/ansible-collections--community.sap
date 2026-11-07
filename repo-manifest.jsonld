@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.sap/commit/9f06d3358ffa63af13209fd043e730ba39f22a1a",
       "git:hexsha": "9f06d3358ffa63af13209fd043e730ba39f22a1a",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2.0.0"
     },
     {
